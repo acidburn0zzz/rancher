@@ -135,7 +135,7 @@ require (
 	k8s.io/helm v2.16.7+incompatible
 	k8s.io/kube-aggregator v0.20.0
 	k8s.io/kubectl v0.20.0
-	k8s.io/kubernetes v1.20.0
+	k8s.io/kubernetes v1.20.7
 	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
 	rsc.io/letsencrypt v0.0.3 // indirect
 	sigs.k8s.io/aws-iam-authenticator v0.5.1

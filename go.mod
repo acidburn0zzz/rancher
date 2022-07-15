@@ -53,7 +53,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/Shopify/logrus-bugsnag v0.0.0-20171204204709-577dee27f20d // indirect
-	github.com/aws/aws-sdk-go v1.38.65
+	github.com/aws/aws-sdk-go v1.43.28
 	github.com/bep/debounce v1.2.0
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/bshuster-repo/logrus-logstash-hook v1.0.0 // indirect
@@ -92,9 +92,9 @@ require (
 	github.com/pborman/uuid v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.48.0
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.15.0
+	github.com/prometheus/common v0.26.0
 	github.com/rancher/aks-operator v1.0.1-rc18
 	github.com/rancher/apiserver v0.0.0-20210818221223-fb33444dfae8
 	github.com/rancher/channelserver v0.5.1-0.20210618172430-5cbefd383369
@@ -135,10 +135,9 @@ require (
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20160601141957-9c099fbc30e9 // indirect
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 	golang.org/x/mod v0.4.0
-	golang.org/x/net v0.0.0-20210315170653-34ac3e1c2000
+	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/text v0.3.5 // indirect
 	google.golang.org/api v0.40.0
 	google.golang.org/genproto v0.0.0-20210315173758-2651cd453018 // indirect
 	google.golang.org/grpc v1.34.0
@@ -148,9 +147,9 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.5.4
-	k8s.io/api v0.21.2
+	k8s.io/api v0.22.1
 	k8s.io/apiextensions-apiserver v0.21.0
-	k8s.io/apimachinery v0.21.2
+	k8s.io/apimachinery v0.22.1
 	k8s.io/apiserver v0.21.0
 	k8s.io/cli-runtime v0.21.0
 	k8s.io/client-go v12.0.0+incompatible
@@ -161,7 +160,7 @@ require (
 	k8s.io/kubernetes v1.21.0
 	k8s.io/utils v0.0.0-20210305010621-2afb4311ab10
 	rsc.io/letsencrypt v0.0.3 // indirect
-	sigs.k8s.io/aws-iam-authenticator v0.5.1
+	sigs.k8s.io/aws-iam-authenticator v0.5.9
 	sigs.k8s.io/cluster-api v0.3.11-0.20210430180359-45b6080c2764
 	sigs.k8s.io/controller-runtime v0.9.0-beta.0
 	sigs.k8s.io/yaml v1.2.0
